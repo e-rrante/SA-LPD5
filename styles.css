@@ -1,22 +1,19 @@
 body {
-    background-color: #f8f9fa; /* Color de fondo suave */
-}
-
-.container {
-    max-width: 600px; /* Limitar el ancho del contenedor */
-    margin-top: 50px; /* Espaciado superior */
-    padding: 20px; /* Espaciado interno */
-    border-radius: 10px; /* Bordes redondeados */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra suave */
-    background-color: white; /* Fondo blanco para el contenedor */
+    font-family: Arial, sans-serif;
+    background-color: #e0f7fa;
+    color: #006064;
+    text-align: center;
+    padding: 20px;
 }
 
 h1 {
-    color: #343a40; /* Color del texto */
-    margin-bottom: 20px; /* Espaciado inferior */
+    color: #004d40;
 }
 
-#resultado {
-    font-size: 1.5rem; /* Tamaño de fuente más grande */
-    margin-top: 20px; /* Espaciado superior */
+#messages {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #b2ebf2;
+    border: 1px solid #0097a7;
+    border-radius: 5px;
 }
